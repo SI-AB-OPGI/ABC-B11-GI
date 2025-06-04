@@ -1,5 +1,8 @@
 dd are u there
 for PR 1st line in branch1
 2nd line for commit
+<<<<<<< HEAD
 for cherry 2
+=======
+>>>>>>> 53294d5... cher con 1
 cherry-pick conflict1
