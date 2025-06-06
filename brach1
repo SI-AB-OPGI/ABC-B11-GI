@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dd are u there
 for PR 1st line in branch1
 2nd line for commit
@@ -6,3 +7,7 @@ for cherry 2
 changes
 for cherry 2
 cherry-pick conflict1
+1st line in branch1
+2nd line in brach1
+3rd line for checking rebase
+to check git fetch changes done in GUI
